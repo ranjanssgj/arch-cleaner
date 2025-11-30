@@ -57,4 +57,4 @@ python3 test_arch_cleaner.py
 
 ## License
 
-MIT
+GPL-3.0

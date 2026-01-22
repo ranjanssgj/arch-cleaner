@@ -48,13 +48,6 @@ arch-cleaner --check-configs
 sudo arch-cleaner --all
 ```
 
-## Development
-
-Run tests with:
-```bash
-python3 test_arch_cleaner.py
-```
-
 ## License
 
 GPL-3.0
